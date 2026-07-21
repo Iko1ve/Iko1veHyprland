@@ -51,6 +51,6 @@ cd Graphite-gtk-theme
 ```
 
 ## Step 4
-Check [rust](https://wiki.archlinux.org/title/Rust) and [go](https://aur.archlinux.org/packages/go-git?all_reqs=1) installation
-Download [cliphist](https://github.com/sentriz/cliphist)
-Download/setup [mako](https://github.com/emersion/mako)
+Check [rust](https://wiki.archlinux.org/title/Rust) and [go](https://aur.archlinux.org/packages/go-git?all_reqs=1) installation |
+ Download [cliphist](https://github.com/sentriz/cliphist) |
+ Download/setup [mako](https://github.com/emersion/mako)
