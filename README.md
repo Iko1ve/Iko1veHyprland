@@ -22,7 +22,7 @@ screenshot: hyprshot
 
 ## Step 1
 ```
-sudo pacman -S wofi kitty freetype2 zsh git hyprlock hyprpaper waybar ttf-font-awesome otf-font-awesome ttf-jetbrains-mono obsidian pavucontrol feh ranger thunar meson nwg-look papirus-icon-theme fastfetch file powerline-fonts inetutils ttf-font-awesome otf-font-awesome ttf-jetbrains-mono neovim code ttf-dejavu bluez bluez-utils blueman telegram-desktop vlc fastfetch xdg-desktop-portal-hyprland hyprpolkitagent sublime-text
+sudo pacman -Syu wofi kitty freetype2 zsh git hyprlock hyprpaper waybar ttf-font-awesome otf-font-awesome ttf-jetbrains-mono obsidian pavucontrol feh ranger thunar meson nwg-look papirus-icon-theme fastfetch file powerline-fonts inetutils ttf-font-awesome otf-font-awesome ttf-jetbrains-mono neovim code ttf-dejavu bluez bluez-utils blueman telegram-desktop vlc fastfetch xdg-desktop-portal-hyprland hyprpolkitagent sublime-text xdg-utils wl-clipboard-rs mako-git
 
 git clone https://aur.archlinux.org/yay.git
 cd yay
@@ -49,3 +49,8 @@ cp -r kitty waybar wlogout wofi hypr fastfetch ~/.config
 cd Graphite-gtk-theme
 ./install.sh
 ```
+
+## Step 4
+Check [rust](https://wiki.archlinux.org/title/Rust) and [go](https://aur.archlinux.org/packages/go-git?all_reqs=1) installation
+Download [cliphist](https://github.com/sentriz/cliphist)
+Download/setup [mako](https://github.com/emersion/mako)
