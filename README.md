@@ -30,3 +30,19 @@ makepkg -si
 yay -S hyprshot wlogout
 
 ```
+
+```
+cd Documents
+
+git clone https://github.com/vinceliuice/Graphite-gtk-theme.git
+git clone https://github.com/Iko1ve/Iko1veHyprland.git
+```
+
+```
+cd Iko1veHyprland
+
+cp -r kitty waybar wlogout wofi hypr fastfetch ~/.config
+
+cd Graphite-gtk-theme
+./install.sh
+```
