@@ -59,7 +59,7 @@ end)
 hl.exec_cmd("wl-paste --type text --watch cliphist store")
 hl.exec_cmd("wl-paste --type image --watch cliphist store")
 hl.exec_cmd("systemctl --user start hyprpolkkitagent")
-hl.exec_cmd('hyprctl hyprpaper wallpaper ",/home/sd/Downloads/city_sky2.jpg"')
+hl.exec_cmd('hyprctl hyprpaper wallpaper ",~/.config/wallpaper/city_sky2.jpg"')
 
 -------------------------------
 ---- ENVIRONMENT VARIABLES ----
