@@ -1,5 +1,7 @@
-authentication agent: hyprpolkitagent \n
+authentication agent: hyprpolkitagent
+
 terminal: kitty
+
 wallpaper: hyprpaper
 
 notification daemon: mako
