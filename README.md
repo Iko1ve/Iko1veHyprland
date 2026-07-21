@@ -44,7 +44,7 @@ git clone https://github.com/Iko1ve/Iko1veHyprland.git
 ```
 cd Iko1veHyprland
 
-cp -r kitty waybar wlogout wofi hypr fastfetch ~/.config
+cp -r kitty waybar wlogout wofi hypr fastfetch mako wallpaper ~/.config
 
 cd Graphite-gtk-theme
 ./install.sh
