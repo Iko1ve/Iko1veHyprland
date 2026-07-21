@@ -1,4 +1,4 @@
-authentication agent: hyprpolkitagent
+authentication agent: hyprpolkitagent \n
 terminal: kitty
 wallpaper: hyprpaper
 
