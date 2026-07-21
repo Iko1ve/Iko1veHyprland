@@ -1,13 +1,23 @@
 authentication agent: hyprpolkitagent
+
 terminal: kitty
+
 wallpaper: hyprpaper
+
 notification daemon: mako
+
 application launcher: wofi
+
 file manager: dolphin
+
 pipewire: pipewire
+
 xdg desktop portal: xdg-desktop-portal-hyprland
+
 status bar: waybar
+
 clipboard: cliphist 
+
 screenshot: hyprshot
 
 ```
